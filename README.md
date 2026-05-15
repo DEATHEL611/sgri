@@ -2,7 +2,7 @@
 
 # 🏛️ SGRI - Sistema de Gestión de la Investigación Institucional
 
-### **Fundación Universitaria Cafam**
+### **Plataforma de Gestión Académica Universal**
 *Impulsando el conocimiento a través de la tecnología.*
 
 ![Hero Banner](./hero.png)
@@ -17,7 +17,9 @@
 
 ## 📖 Sobre el Proyecto
 
-El **SGRI** es una plataforma integral diseñada para centralizar, gestionar y optimizar los procesos de investigación dentro de la **Fundación Universitaria Cafam**. Este sistema permite a estudiantes, profesores y administradores colaborar en proyectos académicos con una interfaz de vanguardia.
+El **SGRI** es una plataforma integral diseñada para centralizar, gestionar y optimizar los procesos de investigación en el ámbito académico. Su arquitectura flexible y modular permite que sea implementada de manera efectiva en **cualquier institución de educación superior o universidad**.
+
+Este sistema permite a estudiantes, profesores y administradores colaborar en proyectos académicos con una interfaz de vanguardia y herramientas diseñadas para la eficiencia.
 
 ### 🌟 Características Destacadas
 
@@ -57,5 +59,5 @@ Si deseas probar la aplicación localmente:
 ---
 
 <div align="center">
-Desarrollado con ❤️ para el Campus Académico UNICAFAM - 2026.
+Desarrollado con ❤️ para la comunidad académica global - 2026.
 </div>
